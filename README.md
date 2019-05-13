@@ -1,2 +1,2 @@
-# second-react-app
+# Video Search App
 Youtube API video search app
